@@ -11,7 +11,7 @@ metadata-files:
   - _design/defaults.yml
 
 website:
-  title: "Your Name"
+  title: "Stephanie Anna Pacheco"
   description: "A student website about research, work, and the world beyond class."
   # Later, when published, uncomment and replace the address below.
   # site-url: "https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/"
@@ -23,7 +23,7 @@ website:
         href: research.qmd
       - text: Career
         href: career.qmd
-      - text: Travel
-        href: travel.qmd
+      - text: Leadership
+        href: leadership.qmd
       - text: Blog
         href: blog.qmd
