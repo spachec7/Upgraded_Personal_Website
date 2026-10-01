@@ -1,6 +1,6 @@
 ---
-title: "Academic interests & research"
-subtitle: "Questions, small projects, and work in progress."
+title: "Research & Projects"
+subtitle: "Pursuing interests through research"
 ---
 
 <!-- RESEARCH: replace these examples with your interests and one course project. -->
