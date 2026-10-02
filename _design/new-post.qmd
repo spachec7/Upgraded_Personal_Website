@@ -20,4 +20,4 @@ Write your reflection or next question here.
 <!-- OPTIONAL PHOTO: put your image in images/ and remove the comment marks below. -->
 <!-- ![](../images/travel.jpg){fig-alt="Describe the photo for a reader who cannot see it."} -->
 
-[Back to all posts](../blog.qmd)
+[Back to all posts](../volunteering.qmd)

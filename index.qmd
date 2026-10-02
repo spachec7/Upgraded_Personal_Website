@@ -42,6 +42,6 @@ How do the places we live shape our opportunities? I'm learning to turn broad qu
 
 A new place, a good conversation, or a surprising chart can be the start of an idea. I keep those observations in my blog.
 
-[Read my latest notes](blog.qmd)
+[Read my latest notes](volunteering.qmd)
 :::
 ::::
