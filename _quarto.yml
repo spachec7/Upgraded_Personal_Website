@@ -21,8 +21,8 @@ website:
         href: index.qmd
       - text: Research
         href: research.qmd
-      - text: Career
-        href: career.qmd
+      - text: Experience
+        href: experience.qmd
       - text: Leadership
         href: leadership.qmd
       - text: Volunteering
