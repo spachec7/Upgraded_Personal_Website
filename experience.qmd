@@ -1,15 +1,15 @@
 ---
 title: "Experience"
-subtitle: "The work I've done and the work I'd like to try."
+subtitle: "Aspiring Market Research Analyst."
 ---
 
 <!-- EXPERIENCE: replace these examples with your own experience. Class and volunteer projects count. -->
 
-## Where I'd like to go
+## Professional Background
 
-I'm exploring opportunities that combine research, clear communication, and work with communities. I'm especially interested in learning how evidence informs decisions outside the classroom.
+My experiences have allowed me to explore the intersection of research, data analysis, and strategic decision-making across multiple areas.
 
-## Experience
+## Featured Experiences
 
 ### Student researcher · Course project
 
@@ -53,11 +53,7 @@ I'm exploring opportunities that combine research, clear communication, and work
     </p>
 </section>
 
-## Let's connect
-
-I'm happy to talk about projects, internships, and opportunities to learn.
-
-[Email me](mailto:you@example.com)
+[LinkedIn](https://www.linkedin.com/in/stephanieapacheco/)
 
 <!-- OPTIONAL: add your real LinkedIn address here, or remove this comment. -->
 <!-- OPTIONAL CV: create a files/ folder, add resume.pdf, then use [My resume](files/resume.pdf). -->

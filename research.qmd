@@ -1,6 +1,6 @@
 ---
 title: "Research"
-subtitle: "Exploration through research & analysis"
+subtitle: "Exploration Through Research & Analysis"
 ---
 
 ## Research Interests
