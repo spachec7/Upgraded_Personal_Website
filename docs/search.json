@@ -151,7 +151,7 @@
     "href": "experience.html",
     "title": "Experience",
     "section": "",
-    "text": "FALL 2026\n\nExplore a social question using a public dataset.\nCreate a visualization in R and explain the choices behind it.\nShare code and notes so a classmate can follow the analysis."
+    "text": "My experiences have allowed me to explore the intersection of research, data analysis, and strategic decision-making across multiple areas."
   },
   {
     "objectID": "experience.html#where-id-like-to-go",
@@ -172,14 +172,14 @@
     "href": "experience.html#skills-im-building",
     "title": "Experience",
     "section": "Skills I’m building",
-    "text": "Skills I’m building\nResearch: turning a broad interest into a focused question, finding sources, and explaining limitations.\nData: working with R, making visualizations, and keeping a project organized.\nCollaboration: giving useful feedback, documenting work, and contributing to a shared project.\n\n\nResume\n\n\nExplore my professional experience, research background, and technical skills.\n\n\n\n\n Download My Resume (PDF) \n\n\nLinkedIn Email Me!"
+    "text": "Skills I’m building\nResearch: turning a broad interest into a focused question, finding sources, and explaining limitations.\nData: working with R, making visualizations, and keeping a project organized.\nCollaboration: giving useful feedback, documenting work, and contributing to a shared project.\n\n\nResume\n\n\nExplore my professional experience, research background, and technical skills in detail.\n\n\n\n\n Download My Resume (PDF) \n\n\nLet’s connect! LinkedIn"
   },
   {
     "objectID": "experience.html#lets-connect",
     "href": "experience.html#lets-connect",
     "title": "Experience",
-    "section": "Let’s connect",
-    "text": "Let’s connect\nI’m happy to talk about projects, internships, and opportunities to learn.\nEmail me"
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nLinkedIn g){.rounded width=“100%”}\n:::\n\n\nResume\n\n\nExplore my professional experience, research background, and technical skills in detail.\n\n\n\n\n Download My Resume (PDF) \n\n\nLet’s connect! LinkedIn"
   },
   {
     "objectID": "leadership.html#niagara-falls",
@@ -208,5 +208,47 @@
     "title": "Research",
     "section": "Projects",
     "text": "Projects\n\n1) Lionsgate: Understanding Audiences Through Market & Cultural Insights\nMIXED-METHODS / LIONSGATE INTERNSHIP / 2026\nResearch Question: How is audience segmentation decided, and where are there opportunities to strengthen this process through marketing strategy?\nApproach: Interviewed 7 key stakeholders from departments across the Motion Picture Group and analyze working 3 film marketing campaigns.\nResults: Presented key findings based off of established objectives to executives. Identified 4 data-driven actionable recommendations to enhance marketing strategy.\n\n\nDeliverable\n\n\n\n\n\n Download My Project (PDF) \n\n\nRemoved selected slides with sensitive and proprietary information\n\n\n2) IIMMLA Analysis: Exploring Latino Identity Through Language, Education, & Income\nQUANTITATIVE / SOCIOLOGICAL RESEARCH / 2026\nResearch Question: When Hispanic/Latino is not offered as a racial identification category, how are measures of assimilation into U.S. society indicative of how 1.5-, second-, and third-generation Latino immigrants identify themselves?\nApproach: Analyzed the Immigration and Intergenerational Mobility in Metropolitan Los Angeles (IIMMLA) Dataset to examine relationships between Latino identification and selected variables, including home language, education, income, age, and gender. Ran logistic regressions in R and produced Odds Ratios in 4 Models to deliver findings.\nResults: Findings revealed support for Segmented Assimilation Theory, suggesting diverse outcomes in identity formation.\n\n\nAnalysis Results\n\n\n\n\n\n Download My Results (PDF) \n\n\n\n\n3) ACS Analysis: Limited English Proficiency & State Median Household Income\nQUANTITATIVE / DEMOGRAPHIC RESEARCH / 2026\nResearch Question: How does limited English proficiency influence household income among immigrants in the United States?\nApproach: Analyzed the American Community Survey (ACS) to examine the correlation between research variables. Conducted linear regressions and produced data visualizations in R to deliver findings.\nResults: Statistically significant findings revealed a negative correlation, suggesting that limited English proficiency reduces access to opportunities for upward mobility and limits the ability to effectively navigate labor markets.\n\n\nDeck\n\n\n\n\n\n Download My Deck (PDF) \n\n\nQuestions? Let’s chat!"
+  },
+  {
+    "objectID": "experience.html#professional-background",
+    "href": "experience.html#professional-background",
+    "title": "Experience",
+    "section": "",
+    "text": "My experiences have allowed me to explore the intersection of research, data analysis, and strategic decision-making across multiple areas."
+  },
+  {
+    "objectID": "experience.html#featured-experiences",
+    "href": "experience.html#featured-experiences",
+    "title": "Experience",
+    "section": "Featured Experiences",
+    "text": "Featured Experiences\n\n\n\nLionsgate\nINCLUSIVE CONTENT & STRATEGY INTERN\nSanta Monica, CA | June – August 2026\nAs an Inclusive Content & Strategy Intern, I explored how audience research, cultural insights, and market trends can inform entertainment strategy.\nSkills: Consumer Insights · Market Research · Audience Strategy · Entertainment\n\n\n\n\n\n\n\n\n\nUniversity of California, Irvine\n\n\nCenter for Population, Inequality & Policy\nNEXTGENPOP RESEARCH FELLOW\nIrvine, CA | June 2025 – May 2026\nAs a Research Fellow, I conducted quantitative research examining demographic and health patterns among immigrant populations using survey data and RStudio.\nSkills: Quantitative Research · R / RStudio · Data Analysis · Demographic Research\n\n\n\n\n\n\n\n\n\nLoyola Marymount University\n\n\nDepartment of Sociology\nRESEARCH ASSISTANT\nLos Angeles, CA | January 2024 – December 2025\nSupported faculty research examining the experiences of Latinx immigrant communities through qualitative interview analysis, data organization, and research communication.\nSkills: Qualitative Research · Interview Analysis · Data Organization · Canva Design\n\n\n\n\n\n\n\n\n\n\nLoyola Marymount University\n\n\nAdmissions\nORIENTATION LEADER\nLos Angeles, CA | July 2024 – Present\nSupport incoming students as they transition to LMU by facilitating orientation programming, communicating campus resources, and fostering community.\nSkills: Communication · Collaboration · Student Engagement · Community Building\n\n\n\n\n\n\n\nResume\n\n\nExplore my professional experience, research background, and technical skills in detail.\n\n\n\n\n Download My Resume (PDF) \n\n\nLet’s connect! LinkedIn"
+  },
+  {
+    "objectID": "experience.html#professional-background-1",
+    "href": "experience.html#professional-background-1",
+    "title": "Experience",
+    "section": "Professional Background",
+    "text": "Professional Background\nMy experiences have allowed me to explore the intersection of research, data analysis, and strategic decision-making across multiple areas."
+  },
+  {
+    "objectID": "experience.html#featured-experiences-1",
+    "href": "experience.html#featured-experiences-1",
+    "title": "Experience",
+    "section": "Featured Experiences",
+    "text": "Featured Experiences\n\n\n\nLionsgate\nINCLUSIVE CONTENT & STRATEGY INTERN\nSanta Monica, CA | June - August 2026\nSkills: Consumer Insights · Market Research ·\nAudience Strategy · Entertainment\n\n\n\n\n\n\nUniversity of California, Irvine - Center for Population, Inequality & Policy\nNEXTGENPOP RESEARCH FELLOW\nIrvine CA | June 2025 - May 2026\nSkills: Quantitative Research · R / RStudio · Data Analysis · Demographic Research\n\n\n ::: {.columns}\n\n\nLoyola Marymount University -\n\n\nDepartment of Sociology\nRESEARCH ASSISTANT\nLos Angeles, CA | January 2024 – December 2025\nSkills: Qualitative Research · Interview Analysis · Data Organization · Canva Design\n\n\n\n\n\n\n\n\n\nLoyola Marymount University - Admissions\nORIENTATION LEADER\nLos Angeles, CA | July 2024 – Present\nSkills: Communication · Collaboration · Student Engagement · Community Building\n\n\n\nResumeExplore my professional experience, research background, and technical skills in detail. Download My Resume (PDF) Let’s connect! LinkedIn"
+  },
+  {
+    "objectID": "experience.html#resume",
+    "href": "experience.html#resume",
+    "title": "Experience",
+    "section": "Resume",
+    "text": "Resume\n\n\nResume\n\n\nExplore my professional experience, research background, and technical skills in detail.\n\n\n\n\n Download My Resume (PDF) \n\n\nLet’s connect! LinkedIn"
+  },
+  {
+    "objectID": "experience.html#linkedin",
+    "href": "experience.html#linkedin",
+    "title": "Experience",
+    "section": "LinkedIn",
+    "text": "LinkedIn\ntitle: “Experience” subtitle: “Aspiring Market Research Analyst.” —"
   }
 ]
