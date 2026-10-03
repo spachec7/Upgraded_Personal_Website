@@ -40,14 +40,14 @@ I'm exploring opportunities that combine research, clear communication, and work
     </p>
 
     <iframe
-        src="assets/Stephanie Pacheco_Data_Analysis_Resume_2026.pdf"
+        src="assets/Stephanie_Pacheco_Resume.pdf"
         width="100%"
         height="700px"
         style="border: none;">
     </iframe>
 
     <p>
-        <a href="assets/Stephanie Pacheco_Data_Analysis_Resume_2026.pdf" download>
+        <a href="assets/Stephanie_Pacheco_Resume.pdf" download>
             Download My Resume (PDF)
         </a>
     </p>

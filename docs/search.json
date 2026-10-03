@@ -53,7 +53,7 @@
     "href": "index.html#learning-by-noticing",
     "title": "Home",
     "section": "Learning by noticing",
-    "text": "Learning by noticing\nA new place, a good conversation, or a surprising chart can be the start of an idea. I keep those observations in my blog.\nRead my latest notes"
+    "text": "Learning by noticing\nA new place, a good conversation, or a surprising chart can be the start of an idea. I keep those observations in my blog."
   },
   {
     "objectID": "blog.html",
@@ -121,9 +121,9 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Academic interests & research",
+    "title": "Research",
     "section": "",
-    "text": "I’m interested in how people participate in public life, how communities differ, and how data can help us ask better questions about both.\n\nPolitical participation: Who gets involved, and what makes participation easier?\nCities and communities: How do local environments shape everyday choices?\nData and communication: How can a chart make a complex pattern easier to understand?"
+    "text": "How research and data analysis can help us better understand people, communities, and consumer behavior\nCombining quantitative and qualitative research methods to identify patterns, examine social trends, and translate findings into meaningful insights\nTopics spanning demographics, immigration, and audience insights"
   },
   {
     "objectID": "research.html#what-im-curious-about",
@@ -142,7 +142,7 @@
   {
     "objectID": "research.html#what-comes-next",
     "href": "research.html#what-comes-next",
-    "title": "Academic interests & research",
+    "title": "Research",
     "section": "What comes next",
     "text": "What comes next\nI’d like to compare the same countries over time and consider what these measures leave out."
   },
@@ -180,5 +180,33 @@
     "title": "Experience",
     "section": "Let’s connect",
     "text": "Let’s connect\nI’m happy to talk about projects, internships, and opportunities to learn.\nEmail me"
+  },
+  {
+    "objectID": "leadership.html#niagara-falls",
+    "href": "leadership.html#niagara-falls",
+    "title": "Leadership",
+    "section": "Niagara Falls",
+    "text": "Niagara Falls\nFIELD NOTES / A DIFFERENT PACE\nSome places make it easier to slow down and pay attention. Here, the movement of the water and the scale of the landscape are a reminder to look beyond the frame of a photograph.\nI’m interested in the small details that make a place feel different: how people move through it, where they gather, and what they stop to notice."
+  },
+  {
+    "objectID": "leadership.html#what-i-want-to-remember",
+    "href": "leadership.html#what-i-want-to-remember",
+    "title": "Leadership",
+    "section": "What I want to remember",
+    "text": "What I want to remember\n\nThe details that a photograph doesn’t capture.\nA question about the place or the people who live there.\nSomething I would notice differently on a return visit.\n\n\nMore observations on the blog"
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "How research and data analysis can help us better understand people, communities, and consumer behavior\nCombining quantitative and qualitative research methods to identify patterns, examine social trends, and translate findings into meaningful insights\nTopics spanning demographics, immigration, and audience insights"
+  },
+  {
+    "objectID": "research.html#projects",
+    "href": "research.html#projects",
+    "title": "Research",
+    "section": "Projects",
+    "text": "Projects\n\n1) Lionsgate: Understanding Audiences Through Market & Cultural Insights\nMIXED-METHODS / LIONSGATE INTERNSHIP / 2026\nResearch Question: How is audience segmentation decided, and where are there opportunities to strengthen this process through marketing strategy?\nApproach: Interviewed 7 key stakeholders from departments across the Motion Picture Group and analyze working 3 film marketing campaigns.\nResults: Presented key findings based off of established objectives to executives. Identified 4 data-driven actionable recommendations to enhance marketing strategy.\n\n\nDeliverable\n\n\n\n\n\n Download My Project (PDF) \n\n\nRemoved selected slides with sensitive and proprietary information\n\n\n2) IIMMLA Analysis: Exploring Latino Identity Through Language, Education, & Income\nQUANTITATIVE / SOCIOLOGICAL RESEARCH / 2026\nResearch Question: When Hispanic/Latino is not offered as a racial identification category, how are measures of assimilation into U.S. society indicative of how 1.5-, second-, and third-generation Latino immigrants identify themselves?\nApproach: Analyzed the Immigration and Intergenerational Mobility in Metropolitan Los Angeles (IIMMLA) Dataset to examine relationships between Latino identification and selected variables, including home language, education, income, age, and gender. Ran logistic regressions in R and produced Odds Ratios in 4 Models to deliver findings.\nResults: Findings revealed support for Segmented Assimilation Theory, suggesting diverse outcomes in identity formation.\n\n\nAnalysis Results\n\n\n\n\n\n Download My Results (PDF) \n\n\n\n\n3) ACS Analysis: Limited English Proficiency & State Median Household Income\nQUANTITATIVE / DEMOGRAPHIC RESEARCH / 2026\nResearch Question: How does limited English proficiency influence household income among immigrants in the United States?\nApproach: Analyzed the American Community Survey (ACS) to examine the correlation between research variables. Conducted linear regressions and produced data visualizations in R to deliver findings.\nResults: Statistically significant findings revealed a negative correlation, suggesting that limited English proficiency reduces access to opportunities for upward mobility and limits the ability to effectively navigate labor markets.\n\n\nDeck\n\n\n\n\n\n Download My Deck (PDF) \n\n\nQuestions? Let’s talk more"
   }
 ]

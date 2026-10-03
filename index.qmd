@@ -15,7 +15,7 @@ page-layout: full
 
 Sociology, Psychological Science, and Applied Data Analysis student at Loyola Marymount University with a background in social science research, analysis, and audience insights. I’m interested in using research and data to inform buisiness decisions and understand people, audiences, and consumer behavior.
 
-[Explore my research](research.qmd){.primary-link} [Contact Me](spachec7@lion.lmu.edu){.quiet-link}
+[Explore my research](research.qmd){.primary-link} [Contact Me](mailto:spachec7@lion.lmu.edu){.quiet-link}
 :::
 
 ::: {.hero-photo}
@@ -37,11 +37,9 @@ How do the places we live shape our opportunities? I'm learning to turn broad qu
 
 ::: {.home-note}
 [02 / BEYOND THE CLASSROOM]{.eyebrow}
-
 ## Learning by noticing
 
 A new place, a good conversation, or a surprising chart can be the start of an idea. I keep those observations in my blog.
 
-[Read my latest notes](volunteering.qmd)
 :::
 ::::

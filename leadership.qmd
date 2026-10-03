@@ -1,11 +1,11 @@
 ---
 title: "Leadership"
-subtitle: "A few observations from outside my usual routine."
+subtitle: "Serving my community by enhancing student engagement."
 ---
 
-<!-- TRAVEL: replace the image, location, and short reflection with your own. -->
+<!-- LEADERSHIp: replace the image, location, and short reflection with your own. -->
 
-![](images/travel.jpg){.travel-photo fig-alt="Water flowing over Niagara Falls, surrounded by green trees."}
+![](images/stephanie-pacheco-resume.png){.travel-photo fig-alt="Water flowing over Niagara Falls, surrounded by green trees."}
 
 ## Niagara Falls
 
