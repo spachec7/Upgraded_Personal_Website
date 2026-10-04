@@ -5,9 +5,30 @@ subtitle: "Aspiring Market Research Analyst."
 
 ## Professional Background
 
-My experiences have allowed me to explore the intersection of research, data analysis, and strategic decision-making across multiple areas.
+My experiences have allowed me to explore the intersection of research, data analysis, and strategic decision-making across multiple areas that have progressed me toward my career goal.
 
 ## Featured Experiences
+::: {.columns}
+::: {.column width="65%"}
+### Loyola Marymount University - Admissions
+
+[ORIENTATION LEADER]{.project-label}
+
+*Los Angeles, CA | July 2024 – Present*
+
+Supported incoming students transition to LMU by facilitating orientation programming, communicating campus resources, and fostering community.
+
+**Skills:** Communication · Collaboration · Student Engagement · Community Building
+
+:::
+
+::: {.column width="35%"}
+
+![](images/orientation-image.jpeg){.rounded width="100%"}
+
+:::
+
+---
 
 ::: {.columns}
 
@@ -19,9 +40,11 @@ My experiences have allowed me to explore the intersection of research, data ana
 
 *Santa Monica, CA | June – August 2026*
 
-As an Inclusive Content & Strategy Intern, I explored how audience research, cultural insights, and market trends can inform entertainment strategy.
+Explored how audience research, cultural insights, and market trends inform entertainment strategy.
 
-**Skills:** Consumer Insights · Market Research · Audience Strategy · Entertainment
+**Skills:** Consumer Insights · Market Research · 
+
+Audience Strategy · Entertainment
 
 :::
 
@@ -46,7 +69,7 @@ As an Inclusive Content & Strategy Intern, I explored how audience research, cul
 
 *Irvine, CA | June 2025 – May 2026*
 
-As a Research Fellow, I conducted quantitative research examining demographic and health patterns among immigrant populations using survey data and RStudio.
+Conducted quantitative research examining demographic and health patterns among immigrant populations using survey data and RStudio statistical analysis.
 
 **Skills:** Quantitative Research · R / RStudio · Data Analysis · Demographic Research
 
@@ -66,14 +89,14 @@ As a Research Fellow, I conducted quantitative research examining demographic an
 
 ::: {.column width="65%"}
 
-### Loyola Marymount University  
+### Loyola Marymount University -  
 ### Department of Sociology
 
 [RESEARCH ASSISTANT]{.project-label}
 
 *Los Angeles, CA | January 2024 – December 2025*
 
-Supported faculty research examining the experiences of Latinx immigrant communities through qualitative interview analysis, data organization, and research communication.
+Supported faculty research examining the experiences of Latinx immigrant communities through analyzing interviews in Spanish, organizing data, and communicating research.
 
 **Skills:** Qualitative Research · Interview Analysis · Data Organization · Canva Design
 
@@ -88,31 +111,6 @@ Supported faculty research examining the experiences of Latinx immigrant communi
 </iframe>
 
 :::
-
-:::
-
----
-
-::: {.columns}
-
-::: {.column width="65%"}
-
-### Loyola Marymount University  
-### Admissions
-
-[ORIENTATION LEADER]{.project-label}
-
-*Los Angeles, CA | July 2024 – Present*
-
-Support incoming students as they transition to LMU by facilitating orientation programming, communicating campus resources, and fostering community.
-
-**Skills:** Communication · Collaboration · Student Engagement · Community Building
-
-:::
-
-::: {.column width="35%"}
-
-![](images/orientation-image.jpeg){.rounded width="100%"}
 
 :::
 
