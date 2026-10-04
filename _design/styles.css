@@ -1,18 +1,20 @@
 /* Optional customization: change the dark accent color below.
    Everything else can stay as it is while you write your site. */
 :root {
-  --paper: #fcfaf6;
-  --ink: #263b35;
-  --body-ink: #424b46;
-  --accent: #326052;
-  --muted: #69716b;
-  --rule: #dcded5;
+  --paper: #F7F3EE;
+  --ink: #2D211D;
+  --body-ink: #443936;
+  --accent: #6B3035;
+  --accent-dark: #512428;
+  --terracotta: #8A5147;
+  --muted: #6F625D;
+  --rule: #D8CCC5;
   --serif: Georgia, "Times New Roman", serif;
 }
 
 body { background: var(--paper); color: var(--body-ink); }
 a { color: var(--accent); text-underline-offset: .2em; }
-a:hover { color: #173e32; }
+a:hover { color: #--accent-dark; }
 a:focus-visible, button:focus-visible {
   outline: 3px solid var(--accent);
   outline-offset: 5px;
@@ -54,7 +56,7 @@ h1.display-name { font-size: clamp(3.6rem, 6.2vw, 5.6rem); line-height: 1; margi
 .hero-copy p { max-width: 37rem; }
 .hero-copy p:last-child { display: flex; gap: 1.6rem; align-items: center; flex-wrap: wrap; margin-top: 1.65rem; }
 .primary-link { display: inline-block; background: var(--accent); color: #fff !important; padding: .7rem 1.2rem; border-radius: 4px; text-decoration: none; font-size: .88rem; }
-.primary-link:hover { background: #234c3e; }
+.primary-link:hover { background: #var(--accent-dark); }
 .quiet-link { font-size: .88rem; }
 .hero-photo { justify-self: end; width: 100%; max-width: 320px; }
 .hero-photo p, .hero-photo figure { margin: 0; }

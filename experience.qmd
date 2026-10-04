@@ -1,6 +1,6 @@
 ---
 title: "Experience"
-subtitle: "Aspiring Market Research Analyst."
+subtitle: "Aspiring Market Research Analyst"
 ---
 
 ## Professional Background
@@ -62,7 +62,7 @@ Audience Strategy · Entertainment
 
 ::: {.column width="65%"}
 
-### University of California, Irvine  
+### University of California, Irvine -
 ### Center for Population, Inequality & Policy
 
 [NEXTGENPOP RESEARCH FELLOW]{.project-label}
@@ -124,14 +124,14 @@ Supported faculty research examining the experiences of Latinx immigrant communi
     </p>
 
     <iframe
-        src="assets/Stephanie_Pacheco_Resume.pdf"
+        src="assets/Stephanie-Pacheco-RESUME-2026.pdf"
         width="100%"
         height="700px"
         style="border: none;">
     </iframe>
 
     <p>
-        <a href="assets/Stephanie_Pacheco_Resume.pdf" download>
+        <a href="assets/Stephanie-Pacheco-RESUME-2026.pdf" download>
             Download My Resume (PDF)
         </a>
     </p>
