@@ -9,9 +9,11 @@ subtitle: "Exploration Through Research & Analysis"
 - Combining quantitative and qualitative research methods to identify patterns, examine social trends, and translate findings into meaningful insights
 - Topics spanning demographics, immigration, and audience insights
 
+---
+
 ## Projects
 
-### 1) Lionsgate: Understanding Audiences Through Market & Cultural Insights
+### Lionsgate: Understanding Audiences Through Market & Cultural Insights
 
 [MIXED-METHODS / LIONSGATE INTERNSHIP / 2026]{.project-label}
 
@@ -40,7 +42,9 @@ subtitle: "Exploration Through Research & Analysis"
 </section>
 *Removed selected slides with sensitive and proprietary information*
 
-### 2) IIMMLA Analysis: Exploring Latino Identity Through Language, Education, & Income
+---
+
+### IIMMLA Analysis: Exploring Latino Identity Through Language, Education, & Income
 
 [ QUANTITATIVE / SOCIOLOGICAL RESEARCH / 2026]{.project-label}
 
@@ -68,7 +72,9 @@ subtitle: "Exploration Through Research & Analysis"
     </p>
 </section>
 
-### 3) ACS Analysis: Limited English Proficiency & State Median Household Income
+---
+
+### ACS Analysis: Limited English Proficiency & State Median Household Income
 
 [QUANTITATIVE / DEMOGRAPHIC RESEARCH / 2026]{.project-label}
 

@@ -33,7 +33,7 @@ Leading a cultural organization dedicated to fostering an inclusive Latine commu
 
 ## **$1,000+**
 
-Raised over the academic year
+Raised in total over the academic year
 
 :::
 
@@ -41,7 +41,7 @@ Raised over the academic year
 
 ## **120+**
 
-Attendees at semi-formal event
+Attendees at bi-annual semi-formal event
 
 :::
 
@@ -63,15 +63,17 @@ Campus collaborations
 
 :::
 
+## Major Contributions
+
 ::: {.columns}
 
 ::: {.column width="47%"}
 
 ![](images/muevelo.jpg){.rounded width="100%"}
 
-[SEMI-FORMAL EVENT]{.project-label}
+[EXECUTIVE BOARD AT MUÉVELO]{.project-label}
 
-120+ attendees
+**Innovation:** *Led 12-member executive board to executive Muévelo, our bi-annual, semi-formal dance, and implement new interactive activities including face painting and air brush hats.*
 
 :::
 
@@ -83,9 +85,9 @@ Campus collaborations
 
 ![](images/nsu-collab.jpg){.rounded width="100%"}
 
-[EXECUTIVE BOARD]{.project-label}
+[NIKKEI STUDENT UNION COLLABORATION]{.project-label}
 
-12 members
+**Outreach:** *Collaborated with on- and off-campus organizations to expand our community, visibility, and engagement.*
 
 :::
 
@@ -96,9 +98,9 @@ Campus collaborations
 ::: {.column width="47%"}
 ![](images/hairbraiding-fundraiser.jpg){.rounded width="100%"}
 
-[CAMPUS COLLABORATION]{.project-label}
+[HAIR BRAIDING FUNDRAISER]{.project-label}
 
-13 collaborations
+**Advocacy:** *Hosted first two Hair Braiding Fundraisers, which together alone raised over $700 for the Esperanza Immigrant Rights Organization. Led data-driven marketing strategies to make these events a success.*
 
 :::
 
@@ -109,12 +111,14 @@ Campus collaborations
 ::: {.column width="47%"}
 ![](images/march-for-good.jpeg){.rounded width="100%"}
 
-[STUDENT ENGAGEMENT]{.project-label}
+[SERVICE]{.project-label}
 
-+40% year-over-year engagement
+**Commitment to Justice:** *Partnered with a professor to invite members to participate in a volunteer event, connecting them to their cultural community and spreading awareness.*
+
+:::
 
 :::
 
-:::
+[View Our Instagram](https://www.instagram.com/lsu_lmu/)
 
 *Our Motto: La Cultura Cura - Culture Heals*
