@@ -26,20 +26,40 @@ Sociology, Psychological Science, and Applied Data Analysis student at Loyola Ma
 
 :::: {.home-notes}
 ::: {.home-note}
-[01 / IN THE CLASSROOM]{.eyebrow}
+[01 / TECHNICAL SKILLS]{.eyebrow}
 
-## Questions worth asking
+### **Tools:**
+- Microsoft Office
+- Google Workspace
+- RStudio
+- Canva
 
-How do the places we live shape our opportunities? I'm learning to turn broad questions into small, careful research projects.
+### **Research:**
+- Statistical Analysis
+- Survey & Market Research
+- Data Visualization
 
-[Academic interests & research](research.qmd)
+[Explore these skills in action](research.qmd)
 :::
 
 ::: {.home-note}
-[02 / BEYOND THE CLASSROOM]{.eyebrow}
-## Learning by noticing
+[02 / EXPERIENCE TIMELINE]{.eyebrow}
 
-A new place, a good conversation, or a surprising chart can be the start of an idea. I keep those observations in my blog.
+### **Experience Timeline**
 
-:::
-::::
+### *2026*
+- Lionsgate, Inclusive Content & Strategy Intern
+
+### *2025*
+- Latinx Student Union -- President
+- NextGenPop -- Research Fellow
+
+### *2024*
+- LMU Sociology -- Research Assistant
+- LMU Admissions -- Orientation Leader
+
+### *2023*
+- LMU Admissions -- Ambassador
+- Lennox Middle School -- El Espejo Youth Mentor
+
+[Explore my experience in detail](experience.qmd)
